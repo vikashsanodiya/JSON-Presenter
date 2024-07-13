@@ -56,7 +56,7 @@ export default function Home() {
   return (
     <div className="h-screen">
       <PageSEO
-        title="Json Tree Viewer"
+        title="Json Presenter Viewer"
         description="Visualisation tool for json in a graph and tree form"
       />
       <div
