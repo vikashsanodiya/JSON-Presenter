@@ -9,7 +9,7 @@ export default function Navbar() {
           <LogoIcon />
         </div>
         <h1 className="hidden text-base font-semibold dark:text-white md:inline">
-          Json Presenter
+          JSON Presenter
         </h1>
       </div>
       <Toolbar />
